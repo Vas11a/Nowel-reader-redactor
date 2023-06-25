@@ -1,0 +1,1 @@
+export const webUrl = 'http://46.36.223.228:8280/'
