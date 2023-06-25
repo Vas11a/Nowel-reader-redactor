@@ -6,6 +6,7 @@
     -webkit-tap-highlight-color:  transparent;
 }
 
+
 .wrapper{
     @apply flex w-full max-w-1900 m-auto min-h-screen flex-col md:flex-row bg-gray-300
 }
@@ -103,7 +104,7 @@
 }
 
 .title-main{
-    @apply text-5xl sm:text-6xl text-center p-5 pt-6 pb-8
+    @apply  text-4xl text-center p-5 pt-2 pb-8
 }
 
 .load-button{
